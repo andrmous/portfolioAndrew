@@ -55,7 +55,7 @@ form input.equal{
 form input.operator {
     color: #33ffd8
 }
-#retour{
+/*#retour{
     border: solid 0 ;
     margin: 100px;
     padding: 10px;
@@ -76,4 +76,4 @@ form input.operator {
 #retour :hover{
     background-color: #323232;
     border-color: #fff;
-}
+}*/
